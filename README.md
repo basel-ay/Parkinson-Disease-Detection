@@ -35,4 +35,4 @@ Wave: training, and testing
 
 Although Deep learning with Convolutional Neural networks seems to be the best approach for this computer vision problem, we have a limited amount of training data and we cannot apply data augmentation as it will lead to a distortion of the results. With this in mind we will rather apply the Histogram of Oriented Gradients Image Descriptor with an ensemble method i.e., Random Forest Classifier and Xgboost
 
-**Datasets and Notebook on Kaggle** : https://www.kaggle.com/basel99/parkinson-s-disease-detection
+**Dataset and Notebook on Kaggle** : https://www.kaggle.com/basel99/parkinson-s-disease-detection
